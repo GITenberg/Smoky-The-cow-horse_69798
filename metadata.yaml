@@ -1,0 +1,25 @@
+_repo: Smoky-The-cow-horse_69798
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Will
+    gutenberg_agent_id: '55427'
+    url: http://www.gutenberg.org/2009/agents/55427
+description: ''
+gutenberg_issued: '2023-01-14'
+identifiers:
+  gutenberg: '69798'
+language: en
+pgterms:marc905: 20220610030110james
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: 'United States: Buccaneer Books,1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Smoky: The cow horse'
+url: http://www.gutenberg.org/ebooks/69798
